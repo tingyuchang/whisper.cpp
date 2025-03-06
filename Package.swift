@@ -31,6 +31,7 @@ ggml-threading.cpp
 ggml-cpu-impl.h
 ggml-cpu.h
 ggml-cpu.c
+ggml-cpp.h
 whisper.h
 whisper.cpp
 */
