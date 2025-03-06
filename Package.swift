@@ -53,18 +53,7 @@ let package = Package(
             name: "whisper",
             path: ".",
             exclude: [
-               "bindings",
-               "cmake",
-               "coreml",
-               "examples",
-               "extra",
-               "models",
-               "samples",
-               "tests",
-               "CMakeLists.txt",
-               "ggml-cuda.cu",
-               "ggml-cuda.h",
-               "Makefile"
+               
             ],
             sources: [
                 "ggml.c",
