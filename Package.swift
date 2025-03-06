@@ -26,6 +26,9 @@ ggml-vulkan.h
 ggml-vulkan.cpp
 gguf.h
 gguf.cpp
+ggml-threading.h
+ggml-threading.cpp
+ggml-cpu-impl.h
 whisper.h
 whisper.cpp
 */
