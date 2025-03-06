@@ -15,6 +15,7 @@ ggml-kompute.cpp
 ggml-metal.h
 ggml-metal.m
 ggml-metal.metal
+ggml-metal-impl.h
 ggml-opencl.h
 ggml-opencl.cpp
 ggml-quants.h
@@ -23,6 +24,8 @@ ggml-sycl.h
 ggml-sycl.cpp
 ggml-vulkan.h
 ggml-vulkan.cpp
+gguf.h
+gguf.cpp
 whisper.h
 whisper.cpp
 */
