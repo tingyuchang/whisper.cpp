@@ -1,5 +1,31 @@
 // swift-tools-version:5.5
-
+/*
+Files only need in this project
+ggml.h
+ggml.c
+ggml-alloc.h
+ggml-alloc.c
+ggml-backend.h
+ggml-backend.c
+ggml-backend-impl.h
+ggml-common.h
+ggml-impl.h
+ggml-kompute.h
+ggml-kompute.cpp
+ggml-metal.h
+ggml-metal.m
+ggml-metal.metal
+ggml-opencl.h
+ggml-opencl.cpp
+ggml-quants.h
+ggml-quants.c
+ggml-sycl.h
+ggml-sycl.cpp
+ggml-vulkan.h
+ggml-vulkan.cpp
+whisper.h
+whisper.cpp
+*/
 import PackageDescription
 
 let package = Package(
